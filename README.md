@@ -2,20 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D20C&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=%F0%9F%94%B1+Destek+%26+Yard%C4%B1m+%C4%B0%C3%A7in+shewnexe" alt="Typing SVG" /></a>
 
-```js
-module.exports = {
-    birthday = '25',
-    birthmonth = 'September',
-    height = '1.78',
-    weight = '65',
-    type = 'human',
-    job = 'sailor',
-    hobby = 'programmer',
-    gender = 'male'
-}
-```
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ShewnDev&color=yellow"/>
