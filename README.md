@@ -7,7 +7,6 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript**
 
 
 
@@ -24,6 +23,14 @@
 ###
 ###
 ###
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+About+Me" alt="Typing SVG" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selamlar+ben+Friday?+Discord+botlarıyla+uğraşıyorum+ve+sizlere+bu+hizmeti+sunacağım+şimdiden+iyi+günlerde+kullanın." alt="ShewnDev" />
+
+###
+###
+###
+
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
