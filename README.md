@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShewnDev&color=yellow"/>
+    <img src="https://komarev.com/ghpvc/?username=FridayOnline&color=yellow"/>
 </div>
 
  
