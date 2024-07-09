@@ -33,14 +33,8 @@
 
 ###
 
-
-<p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
-
-###
-
 # My Discord Account
+
 [![Discord Profilim](https://lanyard.cnrad.dev/api/1189578836388610058)](https://discord.com/users/1189578836388610058)
 
  <br />
