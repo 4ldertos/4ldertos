@@ -21,6 +21,6 @@
 
 # Disocrd hesabım
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1189578836388610058)](https://discord.com/users/1189578836388610058)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1189578836388610058)](https://discord.com/users/1189578836388610058)
 
 ###
