@@ -1,38 +1,21 @@
-### Friday? Developer <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fridayonline&label=Profile%20views&color=0e75b6&style=flat" alt="fridayonline" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D20C&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=%F0%9F%94%B1+Destek+%26+Yard%C4%B1m+%C4%B0%C3%A7in+shewnexe" alt="Typing SVG" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fridayonline" alt="fridayonline" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fridayonline0" target="blank"><img src="https://img.shields.io/twitter/follow/fridayonline0?logo=twitter&style=for-the-badge" alt="fridayonline0" /></a> </p>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=FridayOnline&color=yellow"/>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fridayonline0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fridayonline0" height="30" width="40" /></a>
+<a href="https://instagram.com/fridayonline0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fridayonline0" height="30" width="40" /></a>
+<a href="https://discord.gg/1189578836388610058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1189578836388610058" height="30" width="40" /></a>
+</p>
 
- 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Connect+With+Me" alt="Typing SVG" /></h1>
-<div align="left">
-<a target="_blank" rel="noopener noreferrer" href="https://discord.com/users/693185687758962698"><img alt="JavaScript" align="center" src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg" data-canonical-src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="height="150" width="150";"></a>
-</div> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<h1 align="center"><img src="" alt="Typing SVG" /></h1>
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=Selamlar+ben+Shewn?+Discord+botlarıyla+uğraşıyorum+ve+sizlere+bu+hizmeti+sunacağım+şimdiden+iyi+günlerde+kullanın." alt="ShewnDev" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fridayonline&show_icons=true&locale=en&layout=compact" alt="fridayonline" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fridayonline&show_icons=true&locale=en" alt="fridayonline" /></p>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
-
-[![Discord Presence](https://api.lanyard.rest/v1/users/1189578836388610058)](https://discord.com/users/1189578836388610058)
-
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kvboqjuxxlpc7tbqmchoi3mo4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kvboqjuxxlpc7tbqmchoi3mo4u&redirect=true)
-
-<h1 align="center">
- <a href="https://discord.com/users/693185687758962698" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/ShewnDev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fridayonline&" alt="fridayonline" /></p>
