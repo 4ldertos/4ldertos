@@ -32,7 +32,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-# Github Stats
+# My Discord Account
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1189578836388610058)](https://discord.com/users/1189578836388610058)
 
  <br />
  
