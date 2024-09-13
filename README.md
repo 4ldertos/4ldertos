@@ -32,9 +32,12 @@
 ###
 
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's and Server's" alt="Typing SVG" /></h1>
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/788686743427612673)](https://discord.com/users/788686743427612673)
+
+<br> </br>
+[![Discord Sunucumuz](https://api.weblutions.com/discord/invite/warexial/)](https://discord.gg/warexial)
 
  <br />
  
