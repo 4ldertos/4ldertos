@@ -50,7 +50,7 @@
 
  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Spotify+" alt="Typing SVG" /></h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=66rstk1lckq8f58fhjh4rdz6h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=66rstk1lckq8f58fhjh4rdz6h&redirect=true)
+ <a href="https://open.spotify.com/user/66rstk1lckq8f58fhjh4rdz6h" align="center"> <img align="center" src="https://img.yalin.app/vwuht447wffml59xtfokakivv"></a>
 
 
  
