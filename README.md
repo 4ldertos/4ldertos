@@ -52,7 +52,7 @@
  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Spotify+" alt="Typing SVG" /></h1>
 
 <a href="https://open.spotify.com/user/66rstk1lckq8f58fhjh4rdz6h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i2x2gtfykfg2ejpnvcxxkuva3i&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=66rstk1lckq8f58fhjh4rdz6h&count=5&unique=false" alt="Spotify recently played"  />
 </a>
 
 
