@@ -38,7 +38,7 @@
  <a href="https://discord.com/users/788686743427612673"><img  width="400px" src="https://lanyard.kyrie25.me/api/788686743427612673?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Mentalite+Goat"></a>
 
 <br> </br>
-[![Discord Sunucumuz](https://api.weblutions.com/discord/invite/1092/)](https://discord.gg/1092)
+[![Discord Sunucumuz](https://api.weblutions.com/discord/invite/293/)](https://discord.gg/293)
 
  <br />
  
